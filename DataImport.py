@@ -12,6 +12,7 @@ import requests
 from bs4 import BeautifulSoup
 from pandas.plotting import scatter_matrix
 import seaborn as sns
+sns.set()
 
 
 # In[6]:
